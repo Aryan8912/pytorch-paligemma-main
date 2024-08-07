@@ -2,7 +2,7 @@
 
 A Multimodal (Vision) Language Model from scratch using only Python and PyTorch. 
 
-the PaliGemma Vision Language Model from scratch while explaining all the concepts behind it:
+the PaliGemma Vision Language Model from scratch :
 - Transformer model (Embeddings, Positional Encoding, Multi-Head Attention, Feed Forward Layer, Logits, Softmax)
 - Vision Transformer model
 - Contrastive learning (CLIP, SigLip)
